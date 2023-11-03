@@ -2,7 +2,7 @@
 
 # Accessible Website
 
-Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen.
+In deze repo is mijn werkproces en website te vinden voor de Hallen. Ik maak deze opdracht samen met Ryan en Bibek, maar we hebben allemaal een eigen wiki. Zodat we goed kunnen aan tonen wat je individueel hebt gedaan.
 
 ## Inhoudsopgave
 
